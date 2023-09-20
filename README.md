@@ -1,5 +1,8 @@
 # ChatGPT
-ChatGPT활용 온라인헬퍼 챗봇 개발
+ChatGPT활용 온라인헬퍼 챗봇 개발 
+개발자 도구 mermaid > UML 변환
+
+칭찬도장찍기 프로그램
 
 ```mermaid
 sequenceDiagram
